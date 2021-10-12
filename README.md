@@ -7,6 +7,9 @@ CSE4110-01
 <br/>
 
 <img src="https://user-images.githubusercontent.com/58431910/136904836-ec0434a8-0bd2-4fca-9832-6726f3f74427.jpg"  width="650" />
+<br/> <br/>
+
+<img src="https://user-images.githubusercontent.com/58431910/136905711-5dbcc693-1266-4b98-b99d-f7c72b719820.png"  width="650" />
 
 
 1. Entity 도출 
